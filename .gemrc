@@ -1,0 +1,11 @@
+:backtrace: true
+:sources:
+- http://rubygems.org/
+- http://gems.github.com/
+
+gemhome: /Users/alphaneet/.gem/ruby/1.8
+gempath:
+- /Users/alphaneet/.gem/ruby/1.8/bin
+
+install: --no-ri --no-rdoc
+update: --no-ri --no-rdoc
