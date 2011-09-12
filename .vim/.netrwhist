@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/alphaneet/.emacs.d'
+let g:netrw_dirhist_2='/Users/alphaneet/.emacs.d/lisp/yasnippets-rails/rails-snippets/html-mode'
+let g:netrw_dirhist_3='/Users/alphaneet/.vim'
+let g:netrw_dirhist_4='/Users/alphaneet/.zsh'
+let g:netrw_dirhist_5='/Users/alphaneet/Library/LaunchAgents'
+let g:netrw_dirhist_6='/Users/alphaneet/work/ruby/projects/permission/app/controllers'
+let g:netrw_dirhist_7='/Users/alphaneet/work/ruby/projects/permission/app/controllers/sponsor'
+let g:netrw_dirhist_8='/Users/alphaneet/work/ruby/projects/permission/app/views/sponsor/reservations'
+let g:netrw_dirhist_9='/Users/alphaneet/.vim'
