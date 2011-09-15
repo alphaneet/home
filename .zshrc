@@ -16,7 +16,7 @@ alias g='git'
 
 # パスの設定
 export JRUBY_HOME=~/path/jruby
-export GEM_HOME=~/.gem/ruby/1.8.7
+export GEM_HOME=~/.gem/ruby/1.8
 export GEM_DEFAULT_BIN=$GEM_HOME/bin
 # brew の方を優先するためにlocalを先に持ってきている
 export PATH=/usr/local/bin:$GEM_DEFAULT_BIN:$JRUBY_HOME/bin:$PATH 
